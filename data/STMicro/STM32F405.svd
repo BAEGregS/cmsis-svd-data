@@ -2150,7 +2150,7 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
         <register>
           <name>DBGMCU_APB1_FZ</name>
           <displayName>DBGMCU_APB1_FZ</displayName>
-          <description>Debug MCU APB1 Freeze registe</description>
+          <description>Debug MCU APB1 Freeze register</description>
           <addressOffset>0x8</addressOffset>
           <size>0x20</size>
           <access>read-write</access>
@@ -2257,7 +2257,7 @@ xs:noNamespaceSchemaLocation="CMSIS-SVD_Schema_1_1.xsd">
         <register>
           <name>DBGMCU_APB2_FZ</name>
           <displayName>DBGMCU_APB2_FZ</displayName>
-          <description>Debug MCU APB2 Freeze registe</description>
+          <description>Debug MCU APB2 Freeze register</description>
           <addressOffset>0xC</addressOffset>
           <size>0x20</size>
           <access>read-write</access>
